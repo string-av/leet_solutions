@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+public class remElement {
     public static int removeElement(int[] ar, int val) {
         int count = 0, a = 0;
         int[] temp = new int[ar.length];
